@@ -22,7 +22,7 @@
     "@angular/router": "~7.2.0",
     "angularjs-slick": "^1.0.1",
     "core-js": "^2.6.10",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "ngx-slick-carousel": "^0.4.6",
     "rxjs": "^6.5.3",
     "slick-carousel": "^1.8.1",
